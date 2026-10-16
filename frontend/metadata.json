@@ -1,0 +1,6 @@
+{
+  "name": "CareNexus Clinical OS",
+  "description": "Intelligent Healthcare & Clinical Agent Platform featuring role-based portals for Physicians, Patients, and Hospital Administrators with AI Clinical Copilots and RBAC governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

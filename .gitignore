@@ -1,0 +1,14 @@
+.venv/
+**/__pycache__/
+**/.pytest_cache/
+**/.env
+**/.env.local
+**/node_modules/
+**/.next/
+**/dist/
+**/test-results/
+**/playwright-report/
+**/*.tsbuildinfo
+storage/*
+!storage/.gitkeep
+!storage/README.md
